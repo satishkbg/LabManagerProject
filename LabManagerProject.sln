@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabManagerWeb", "LabManagerWeb\LabManagerWeb.csproj", "{74662DF4-9886-40C6-8777-304B6DC7D0B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{D7085610-CD06-4695-A710-ECAB13FA2D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLData", "SQLData\SQLData.csproj", "{18D89EC3-EDDB-4C1F-9895-0F52697DF684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74662DF4-9886-40C6-8777-304B6DC7D0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74662DF4-9886-40C6-8777-304B6DC7D0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74662DF4-9886-40C6-8777-304B6DC7D0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74662DF4-9886-40C6-8777-304B6DC7D0B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7085610-CD06-4695-A710-ECAB13FA2D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7085610-CD06-4695-A710-ECAB13FA2D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7085610-CD06-4695-A710-ECAB13FA2D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7085610-CD06-4695-A710-ECAB13FA2D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D89EC3-EDDB-4C1F-9895-0F52697DF684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D89EC3-EDDB-4C1F-9895-0F52697DF684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D89EC3-EDDB-4C1F-9895-0F52697DF684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D89EC3-EDDB-4C1F-9895-0F52697DF684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
