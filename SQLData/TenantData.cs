@@ -11,5 +11,6 @@ namespace SQLData
     /// </summary>
     public class TenantData
     {
+
     }
 }

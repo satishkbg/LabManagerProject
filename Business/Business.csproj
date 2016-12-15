@@ -44,6 +44,12 @@
     <Compile Include="TenantServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SQLData\SQLData.csproj">
+      <Project>{18d89ec3-eddb-4c1f-9895-0f52697df684}</Project>
+      <Name>SQLData</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
