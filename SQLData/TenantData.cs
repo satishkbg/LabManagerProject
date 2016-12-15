@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace SQLData
 {
+    /// <summary>
+    /// SQL DAL for TenantData
+    /// </summary>
     public class TenantData
     {
     }
