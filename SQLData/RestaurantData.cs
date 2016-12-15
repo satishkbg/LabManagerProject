@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SQLData
 {
-    class RestaurantData
+    /// <summary>
+    /// SQL DAL for Restaurant 
+    /// </summary>
+    public class RestaurantData
     {
+        
     }
 }
